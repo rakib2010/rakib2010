@@ -37,7 +37,7 @@
 <!-- ================= TECH STACK ================= -->
 ## ⚡ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,python,php,dart,flutter,react,angular,html,css,bootstrap,android,git,github,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,python,php,dart,flutter,react,angular,html,css,bootstrap,androidstudio,git,github,mysql,postgres,firebase" />
 </p>
 
 ---
