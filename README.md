@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Rakib+Hasan;Full+Stack+Developer;Flutter+Specialist;Clean+Code+Advocate;Building+Scalable+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Md+Rakib+Hasan;Full+Stack+Developer;Flutter+Specialist;Clean+Code+Advocate;Building+Scalable+Apps+🚀" />
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 <a href="https://www.linkedin.com/in/rakib-hasan-807b5a220/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-<a href="https://www.facebook.com/" target="_blank">
+<a href="https://www.facebook.com/rakib.hasanrb/" target="_blank">
 <img src="https://skillicons.dev/icons?i=facebook" height="45"/>
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:rakib.hasan.asia@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
