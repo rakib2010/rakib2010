@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 <a href="https://www.facebook.com/rakib.hasanrb/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45"/>
 </a>
 <a href="mailto:rakib.hasan.asia@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
