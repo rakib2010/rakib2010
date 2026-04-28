@@ -14,10 +14,10 @@
 
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
-- 🚀 Full Stack Developer with a focus on **Flutter & Modern Web**
-- 🧠 Strong in **Problem Solving & System Design**
-- ⚡ Passionate about building **high-performance applications**
-- 🎯 Goal: Deliver scalable & clean architecture solutions
+- Full Stack Developer with a focus on **Flutter & Modern Web**
+- Strong in **Problem Solving & System Design**
+- Passionate about building **high-performance applications**
+- Goal: Deliver scalable & clean architecture solutions
 
 ---
 
